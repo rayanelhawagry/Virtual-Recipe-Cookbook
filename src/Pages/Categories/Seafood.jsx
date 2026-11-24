@@ -2,6 +2,8 @@ import React from 'react'
 
 export default function Seafood() {
   return (
-    <div>Seafood</div>
+    <>
+      <h1 className='bg-blue-600 text-center'>Seafood</h1>
+    </>
   )
 }

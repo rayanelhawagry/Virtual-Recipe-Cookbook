@@ -2,6 +2,8 @@ import React from 'react'
 
 export default function Breakfast() {
   return (
-    <div>Breakfast</div>
+    <>
+      <h1 className='bg-blue-600 text-center'>Breakfast</h1>
+    </>
   )
 }

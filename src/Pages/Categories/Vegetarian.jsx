@@ -2,6 +2,8 @@ import React from 'react'
 
 export default function Vegetarian() {
   return (
-    <div>Vegetarian</div>
+    <>
+      <h1 className='bg-blue-600 text-center'>Vegetarian</h1>
+    </>
   )
 }

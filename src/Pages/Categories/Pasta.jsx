@@ -2,6 +2,8 @@ import React from 'react'
 
 export default function Pasta() {
   return (
-    <div>Pasta</div>
+    <>
+      <h1 className='bg-blue-600 text-center'>Pasta</h1>
+    </>
   )
 }
