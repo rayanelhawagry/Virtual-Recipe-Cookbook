@@ -4,7 +4,7 @@ import pizza from '../assets/pizza.jpg'
 export default function Card() {
     return (
         <>
-            <div className='shadow-lg/20 flex flex-col justify-center items-center'>
+            <div className='shadow-lg/20 flex flex-col justify-center items-center my-2'>
                 <div>
                     <img src={pizza} alt="pizza" />
                 </div>

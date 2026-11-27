@@ -10,9 +10,6 @@ export default function Layout() {
     return (
         <>
             <Nav />
-            <Cover />
-            <SearchBar />
-            <Categories />
             <Outlet />
             <Footer />
         </>
