@@ -7,3 +7,12 @@
     font-family: "Raleway", sans-serif;
     font-optical-sizing: auto;
 }
+
+img {
+    width: 100%;
+    display: block;
+}
+
+@utility category-navlink {
+    @apply p-3 rounded-base text-black text-lg shadow-md/20 font-medium bg-[#FFE17B] hover:bg-[#F2CE4F] duration-300;
+}
